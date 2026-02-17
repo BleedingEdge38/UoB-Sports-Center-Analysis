@@ -1,0 +1,6 @@
+# Ignore all pickle files anywhere
+*.pkl
+
+# Or more specific (optional, if you want)
+prepared_data/
+data_cache/
