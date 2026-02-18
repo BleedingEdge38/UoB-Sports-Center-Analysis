@@ -282,9 +282,7 @@ streamlit run src/H_dashboard.py
 - Predictive churn models incorporating external economic indicators (CPI, student loan disbursement cycles)
 - Cross-segment substitution effect analysis
 - Dynamic peak-period pricing opportunities
-
-Long-term Customer Lifetime Value (CLV) modelling for retention investment prioritisation
-
-Competitive benchmarking across UK higher education fitness facilities
+- Long-term Customer Lifetime Value (CLV) modelling for retention investment prioritisation
+- Competitive benchmarking across UK higher education fitness facilities
 
 
